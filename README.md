@@ -33,9 +33,9 @@ This project builds a feature engineering pipeline using the Metro Interstate Tr
 - ExampleGen produces examples that will be used and read by other TFX Components.
 
 The ExampleGen performs three main functions which are
-1- Split the data(default is 2/3 training and 1/3 evaluation).
-2- Converts each row of the training data into tf.train.example which is a protocol puffer used to serialize structured data.
-3- Compress and save the data in the pipeline root making it optimized for other components to access.
+-  Split the data(default is 2/3 training and 1/3 evaluation).
+-  Converts each row of the training data into tf.train.example which is a protocol puffer used to serialize structured data.
+-  Compress and save the data in the pipeline root making it optimized for other components to access.
 
 
 
