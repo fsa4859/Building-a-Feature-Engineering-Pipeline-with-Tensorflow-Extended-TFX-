@@ -37,5 +37,14 @@ The ExampleGen performs three main functions which are
 -  Converts each row of the training data into tf.train.example which is a protocol puffer used to serialize structured data.
 -  Compress and save the data in the pipeline root making it optimized for other components to access.
 
+**Running ExampleGen**
+![image](https://user-images.githubusercontent.com/69100847/179390498-8cc54823-16dc-4e47-bfec-f90270100927.png)
+
+
+![image](https://user-images.githubusercontent.com/69100847/179390510-c7d044e5-4140-49c0-98d6-13b4b100eac4.png)
+
+
+
+
 
 
