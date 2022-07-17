@@ -20,7 +20,7 @@ This project builds a feature engineering pipeline using the Metro Interstate Tr
 ![image](https://user-images.githubusercontent.com/69100847/179389882-198f083b-f0de-4fdf-95d2-7637b29df72c.png)
 
 
-** Interactive Context**
+**Interactive Context**
 
 - We need to instantiate the Interactive Context so that different components can run interactiely.
 - We will define the metadata store in the pipeline root.
